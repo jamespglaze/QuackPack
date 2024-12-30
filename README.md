@@ -46,18 +46,17 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
 * [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/)
 * [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
+* [Parallax Continued](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-208/) support is provided courtesy of jthero3: [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
 
 ## Recommended Mods
 * [BetterKerbol](https://forum.kerbalspaceprogram.com/index.php?/topic/207389-112x-kopernicus-betterkerbol-v101-a-kerbol-graphics-enhancement/)
 * [Outer Planets Mod](https://forum.kerbalspaceprogram.com/index.php?/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/)
 
 ## FAQ
-* Q. Does QuackPack support Parallax 2?
-* A. QuackPack does not currently provide configs for Parallax 2, but it will run alongside Parallax 2 enabled planets from the stock system or other planet mods
-* Q. Will QuackPack ever support Parallax 2?
-* A. QuackPack is intended to support Parallax 2 at some point, when I have the time to sit down and learn it.
+* Q. Does QuackPack support Parallax or Parallax Continued?
+* A. QuackPack does not natively provide configs for Parallax or Parallax Continued, but support for Parallax Continued is available through jthero3's [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
 * Q. Does QuackPack support EVE True Volumetrics?
-* A. EVE True Volumetrics support will come in a future update.
+* A. Not currently, but EVE True Volumetrics support will come in a future update.
 * Q. Does QuackPack support rescaling either natively or via Sigma Dimensions?
 * A. QuackPack does not have native rescale support, but will function with rescales done via Sigma Dimensions. This means you can install QuackPack alongside other 1x scale mods, then rescale the whole thing with Sigma Dimensions, but QuackPack will not function correctly with mods like JNSQ, which have a native scale difference.
 
