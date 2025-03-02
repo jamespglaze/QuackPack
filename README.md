@@ -30,6 +30,9 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * Download and extract the QuackPack zip file
 * Place the GameData folder into your KSP directory
 * Highly recommended to download and install Scatterer, EVE REDUX, and BetterKerbol as they provide massive visual improvement, and QuackPack is intended to be played with all three installed.
+* OPTIONAL (Github release only)
+  * Download and extract the Volumetrics zip file
+  * Place the GameData folder into your KSP directory
 
 ## Requirements
 * [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)
