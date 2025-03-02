@@ -18,6 +18,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * Science and career mode ready, with full biome and experiment definitions.
 * Full scatterer integration.
 * Full EVE integration, with clouds, sandstorms, lightning, and aurorae.
+  * Volumetric clouds are supported for Jot with an optional download. 
 * Planetshine and Distant Object Enhancement integration.
 
 ## Notes
@@ -44,6 +45,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 ## Provided Compatibility
 * [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
 * [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
+  * Volumetrics are currently only supported for Jot
 * [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/)
 * [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
 * [Parallax Continued](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-208/) support is provided courtesy of jthero3: [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
@@ -56,7 +58,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * Q. Does QuackPack support Parallax or Parallax Continued?
 * A. QuackPack does not natively provide configs for Parallax or Parallax Continued, but support for Parallax Continued is available through jthero3's [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
 * Q. Does QuackPack support EVE True Volumetrics?
-* A. Not currently, but EVE True Volumetrics support will come in a future update.
+* A. Currently, only Jot supports EVE True Volumetrics, support for Cind and Blas will be rolled out sometime in the next few updates.
 * Q. Does QuackPack support rescaling either natively or via Sigma Dimensions?
 * A. QuackPack does not have native rescale support, but will function with rescales done via Sigma Dimensions. This means you can install QuackPack alongside other 1x scale mods, then rescale the whole thing with Sigma Dimensions, but QuackPack will not function correctly with mods like JNSQ, which have a native scale difference.
 
