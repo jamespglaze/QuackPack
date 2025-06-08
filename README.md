@@ -21,8 +21,12 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
   * Volumetric clouds are supported for Jot with an optional download. 
 * Planetshine and Distant Object Enhancement integration.
 
-## Notes
-* This is my first planet mod, pls be gentle.
+## Author
+* LT_Duckweed (Me!)
+
+## Contributors
+* [@BurgerKerman](https://github.com/BurgerKerman): Localization support, Russian localization
+* [@munktron239](https://github.com/munktron239): OrbitIconsPack support
 
 ## Installation
 * Remove any preexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
@@ -39,6 +43,10 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/)
 * [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/)
 
+## Localization
+* English
+* Russian (courtesy of [@BurgerKerman](https://github.com/BurgerKerman))
+
 ## Bundled Dependencies
 * [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 * [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter)
@@ -51,7 +59,8 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
   * Volumetrics are currently only supported for Jot
 * [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/)
 * [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
-* [Parallax Continued](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-208/) support is provided courtesy of jthero3: [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
+* [OrbitIconsPack](https://forum.kerbalspaceprogram.com/topic/226024-112x-orbiticonspack-140-updated-march-16th-2025-cet/) support is provided courtesy of [@munktron239](https://github.com/munktron239)
+* [Parallax Continued](https://forum.kerbalspaceprogram.com/topic/209714-112x-parallax-pbr-terrain-and-surface-objects-208/) support is provided courtesy of [@jthero3](https://github.com/jthero3): [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
 
 ## Recommended Mods
 * [BetterKerbol](https://forum.kerbalspaceprogram.com/index.php?/topic/207389-112x-kopernicus-betterkerbol-v101-a-kerbol-graphics-enhancement/)
@@ -59,7 +68,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 
 ## FAQ
 * Q. Does QuackPack support Parallax or Parallax Continued?
-* A. QuackPack does not natively provide configs for Parallax or Parallax Continued, but support for Parallax Continued is available through jthero3's [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
+* A. QuackPack does not natively provide configs for Parallax or Parallax Continued, but support for Parallax Continued is available through [@jthero3](https://github.com/jthero3)'s [QuackPack-ParallaxContinued](https://github.com/jthero3/QuackPack-ParallaxContinued/releases/latest)
 * Q. Does QuackPack support EVE True Volumetrics?
 * A. Currently, only Jot supports EVE True Volumetrics, support for Cind and Blas will be rolled out sometime in the next few updates.
 * Q. Does QuackPack support rescaling either natively or via Sigma Dimensions?
